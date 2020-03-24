@@ -1,4 +1,4 @@
-#TenPin Java Challenge - Jobsity
+# TenPin Java Challenge - Jobsity
 
 This project contains the Java Challenge for Jobsity.
 
