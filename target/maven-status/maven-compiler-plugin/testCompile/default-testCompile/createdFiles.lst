@@ -1,0 +1,7 @@
+com/jobsity/business/rule/StrikeRuleTest.class
+com/jobsity/business/rule/NormalRuleTest.class
+com/jobsity/business/score/TraditionalSingleScoreCalculatorTest.class
+com/jobsity/business/score/TraditionalGlobalScoreCalculatorTest.class
+com/jobsity/business/rule/SpareRuleTest.class
+com/jobsity/AppTest.class
+com/jobsity/util/TenPinUtilTest.class
